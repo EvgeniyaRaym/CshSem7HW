@@ -1,0 +1,15 @@
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.csproj.AssemblyReference.cache
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.AssemblyInfoInputs.cache
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.AssemblyInfo.cs
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.csproj.CoreCompileInputs.cache
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\bin\Debug\net6.0\50.exe
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\bin\Debug\net6.0\50.deps.json
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\bin\Debug\net6.0\50.runtimeconfig.json
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\bin\Debug\net6.0\50.dll
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\bin\Debug\net6.0\50.pdb
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.dll
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\refint\50.dll
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.pdb
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\50.genruntimeconfig.cache
+C:\Users\raym-en\Documents\GB\C#\sem 7 hw\50\obj\Debug\net6.0\ref\50.dll
